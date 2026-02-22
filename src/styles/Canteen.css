@@ -1,0 +1,71 @@
+.canteen-container {
+  height: 100vh;
+  padding: 20px;
+  background: #f4f6fb;
+}
+
+.canteen-title {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.menu-table-wrapper {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  overflow: auto;
+  height: calc(100vh - 120px);
+}
+
+.menu-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.menu-table thead th {
+  position: sticky;
+  top: 0;
+  background: #0f172a;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.menu-table tbody td {
+  padding: 14px;
+  border-top: 1px solid #e5e7eb;
+  vertical-align: top;
+}
+
+.day-cell {
+  font-weight: 700;
+  background: #f1f5f9;
+  text-align: center;
+  color: #0f172a;
+}
+
+.food-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #f8fafc;
+  padding: 8px;
+  border-radius: 10px;
+  margin-bottom: 8px;
+}
+
+.food-card img {
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.food-card span {
+  font-weight: 600;
+  font-size: 14px;
+  color: #0f172a;
+}
