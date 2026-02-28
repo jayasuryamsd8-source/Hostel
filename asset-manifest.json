@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hostel/static/css/main.af7be987.css",
+    "main.js": "/Hostel/static/js/main.13119942.js",
+    "static/media/hostel.jpg": "/Hostel/static/media/hostel.88c984f64559a72822e3.jpg",
+    "static/media/qr.jpg": "/Hostel/static/media/qr.599af08f1f67239029f7.jpg",
+    "static/media/hostel3.jpg": "/Hostel/static/media/hostel3.caa020e849ba988676ef.jpg",
+    "static/media/hostel4.jpg": "/Hostel/static/media/hostel4.831402bebfa8a9edc44e.jpg",
+    "static/media/gate_pass.jpg": "/Hostel/static/media/gate_pass.d3e998efd1c1f17a5972.jpg",
+    "static/media/menu.jpg": "/Hostel/static/media/menu.9e29deda8323d7f25516.jpg",
+    "static/media/complaint.webp": "/Hostel/static/media/complaint.7a3cbbe809a8440a1bff.webp",
+    "static/media/myLogo.png": "/Hostel/static/media/myLogo.c920752422c11377083e.png",
+    "static/media/myProfileBackground.png": "/Hostel/static/media/myProfileBackground.2619be80b6cc0900e494.png",
+    "static/media/fcritl.png": "/Hostel/static/media/fcritl.2d44deb41eb2d38b640a.png",
+    "index.html": "/Hostel/index.html",
+    "main.af7be987.css.map": "/Hostel/static/css/main.af7be987.css.map",
+    "main.13119942.js.map": "/Hostel/static/js/main.13119942.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af7be987.css",
+    "static/js/main.13119942.js"
+  ]
+}
